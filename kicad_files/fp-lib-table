@@ -1,4 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Components.pretty")(options "")(descr ""))
   (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Connectors.pretty")(options "")(descr ""))
   (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Hardware.pretty")(options "")(descr ""))
@@ -7,4 +8,5 @@
   (lib (name "acheron_MX_soldermask")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_MX_soldermask.pretty")(options "")(descr ""))
   (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Graphics.pretty")(options "")(descr ""))
   (lib (name "gondolindrim_kicad_logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/gondolindrim_kicad_logos/gondolindrim_kicad_logos.pretty")(options "")(descr ""))
+  (lib (name "resources")(type "KiCad")(uri "/media/data/projects/client/Cafege1800/resources")(options "")(descr ""))
 )
